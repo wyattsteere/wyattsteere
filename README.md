@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @wyattsteere
 - 👀 I’m interested in java programming, computer science, cybersecurity and more
-- 🌱 I’m currently learning Java programming and Palo Alto Networks
+- 🌱 I’m currently learning Java and R 
+-    I am PCCET certified and working towards my AWS certification
 - 💞️ I’m looking to collaborate on cybersecurity projects, specifically Cisco and Palo Alto 
 - 📫 How to reach me wyattsteere@gmail.com
 
